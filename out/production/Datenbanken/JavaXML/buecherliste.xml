@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookList>
+    <book>
+        <title>Wie eine verrückte Ameise die Welt verändern kann</title>
+        <author>Arjan Postma</author>
+        <year>2022</year>
+        <price>22.0</price>
+    </book>
+    <book>
+        <title>Lustige Geschichten</title>
+        <author>Wladimir Sutejew</author>
+        <year>2006</year>
+        <price>12.9</price>
+    </book>
+</bookList>
