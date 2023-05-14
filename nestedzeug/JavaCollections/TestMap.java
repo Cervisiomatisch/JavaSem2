@@ -13,5 +13,6 @@ public class TestMap {
         System.out.println("Guinan: " + emailAlias.get("Guinan"));
         emailAlias.replace("Guinan","info@guinan.schiff.de");
         System.out.println(emailAlias.values());
+
     }
 }
