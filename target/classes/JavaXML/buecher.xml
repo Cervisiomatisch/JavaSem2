@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book>
+    <title>Der Grüffelo</title>
+    <author>Axel Scheffler, Julia Donaldson</author>
+    <year>1999</year>
+    <price>13.95</price>
+  </book>
+  <book>
+    <title>Das Grüffelokind</title>
+    <author>Axel Scheffler, Julia Donaldson</author>
+    <year>2007</year>
+    <price>9.95</price>
+  </book>
+  <book>
+    <title>Biografie von Lucas dem Coolsten</title>
+    <author>Lucas himself</author>
+    <year>2023</year>
+    <price>9999</price>
+  </book>
+</bookstore>

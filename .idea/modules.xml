@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Datenbanken.iml" filepath="$PROJECT_DIR$/.idea/Datenbanken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datenbanken.iml" filepath="$PROJECT_DIR$/Datenbanken.iml" />
     </modules>
   </component>
 </project>

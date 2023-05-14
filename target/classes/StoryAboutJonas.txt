@@ -1,0 +1,11 @@
+Story: 
+ ist ein cooler Otto.
+2: Jonas ist ein cooler Otto.
+3: Jonas ist ein cooler Otto.
+4: Jonas ist ein cooler Otto.
+5: Jonas ist ein cooler Otto.
+6: Jonas ist ein cooler Otto.
+7: Jonas ist ein cooler Otto.
+8: Jonas ist ein cooler Otto.
+9: Jonas ist ein cooler Otto.
+10: Jonas ist ein cooler Otto.
