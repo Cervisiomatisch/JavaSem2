@@ -6,6 +6,7 @@ public class Planettest {
             case Erde -> false;
             case VENUS -> false;
             case MERCURY, NEPTUNE -> true;
+            case MARS -> false;
         };
         return b;
     }

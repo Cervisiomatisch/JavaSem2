@@ -1,11 +1,13 @@
 package nestedzeug;
 
 public class DemoStaticNestedClass {
+    //äußer Klasse
     private int enclosingValue = 1;
     private static int enclosingStaticValue = 2;
     private static int sameName = 5;
 
-    public static class StaticNestedClass {
+    static class StaticNestedClass {
+        //innere Klasse
         private int staticNestedValue = 3;
         private static int staticNestedStaticValue = 4;
         private static int sameName = 6;
