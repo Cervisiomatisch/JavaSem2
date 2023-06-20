@@ -28,9 +28,9 @@ public class Coordinate<X extends Number, Y extends Number> {
     public void setyCoordinate(Y yKoordinaten) {
         yCoordinate = yKoordinaten;
     }
-    public void copyFrom(Coordinate<? extends X, ? extends Y> coordinate){
-        //coordinate.setxCoordinate(xCoordinate);
-        //coordinate.setyCoordinate(yCoordinate);
+    public void copyFrom(Coordinate<? extends X,? extends Y> coordinate){
+        xCoordinate = coordinate.getxCoordinate();
+        yCoordinate = coordinate.getyCoordinate();
     }
 
 }

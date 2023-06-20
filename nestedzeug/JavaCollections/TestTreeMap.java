@@ -12,5 +12,6 @@ public class TestTreeMap {
         System.out.println("Länge der NavigableMap: " + a);
         System.out.println(shelfContent.subMap(0,a/2 + 1 ));
         System.out.println(shelfContent.subMap(a/2+1, a+1 ));
+        System.out.println();
     }
 }

@@ -15,10 +15,6 @@ public enum EnumGrade {
         return wert;
     }
     public boolean hasPassed(){
-        if (wert < 4.0) {
-            return true;
-        } else {
-            return false;
-        }
+        return wert < 4.0;
     }
 }

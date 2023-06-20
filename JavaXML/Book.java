@@ -1,4 +1,4 @@
-/*package JavaXML;
+package JavaXML;
 
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
@@ -64,4 +64,3 @@ public class Book {
 		this.price = price;
 	}
 }
-*/

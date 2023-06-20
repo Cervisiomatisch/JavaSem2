@@ -20,7 +20,9 @@ public class LocalTest {
         System.out.println("Verzauberter Geburtstag: " + bewitchedHarrysBirthday);
         System.out.println("Garfields Geburtsjahr: " + garfieldsBirthday.getYear());
         // zu Aufgabe a
-        harryPottersBirthday.plusYears(2);
+        System.out.println("Vor: " + harryPottersBirthday);
+        harryPottersBirthday = harryPottersBirthday.plusYears(2);
+        System.out.println("nach: " + harryPottersBirthday);
         //zu Aufgabe b
         LocalDate myBirthday = LocalDate.parse("2002-11-22");
         //zu aufgabe c

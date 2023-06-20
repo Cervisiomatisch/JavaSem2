@@ -79,9 +79,6 @@ public class AgentY {
         }
         meineAgency.add(fakeAgent);
         System.out.println(meineAgency);
-
-
-
     }
 }
 

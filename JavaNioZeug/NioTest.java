@@ -8,7 +8,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 
 public class NioTest {
     public static void main(String[] args) throws IOException {
-        Path filePath = Path.of("./srcDinger/Blumen.png");
+        Path filePath = Path.of("srcDinger/Blumen.png");
         System.out.println("FilePath: ");
         System.out.println(filePath);
         System.out.println(filePath.getFileName());

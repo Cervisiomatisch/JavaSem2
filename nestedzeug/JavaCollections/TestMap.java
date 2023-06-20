@@ -14,5 +14,6 @@ public class TestMap {
         emailAlias.replace("Guinan","info@guinan.schiff.de");
         System.out.println(emailAlias.values());
 
+
     }
 }

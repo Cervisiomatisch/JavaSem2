@@ -10,7 +10,6 @@ public class Mouse {
         name = "Namenlos";
         ownedCheese = 0;
     }
-
     public Mouse(String name, int ownedCheese){
         this.name = name;
         this.ownedCheese = ownedCheese;

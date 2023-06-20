@@ -15,7 +15,9 @@ public class TestMouse {
         for (int i = 0; i < 100; i++) {
             ourMice.add(new Mouse("Maus:" + UUID.randomUUID().toString().substring(0,7), (int) (Math.random() * 50)));
         }
+
         ourMice.stream().forEach(mouse -> System.out.println(mouse.toString()));
+
         System.out.println("first mouse: " + ourMice.stream().findFirst());
         System.out.println("any mouse: " + ourMice.stream().findAny());
         System.out.println("all mouse over poorboarder (poverty line): " + ourMice.stream().allMatch(mouse -> mouse.getOwnedCheese() > 5));
